@@ -5,6 +5,7 @@ const Counter = () => {
 
   return (
     <div>
+      <h1>useState</h1>
       <p>
         현재 카운터 값은 <b>{value}</b> 입니다.
       </p>
